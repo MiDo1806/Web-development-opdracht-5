@@ -1,0 +1,16 @@
+body {
+    color: rgb(63, 43, 80);
+}
+h1, ol, p.black-border {
+    border: 8px solid black;
+}
+#green-background {
+    background-color: rgb(167, 255, 229);
+}
+img {
+	border: 1px solid #999;
+	background-color: #7535c9;
+	padding: 6px;
+}
+ol {background-color: rgb(178, 179, 238);
+}  
